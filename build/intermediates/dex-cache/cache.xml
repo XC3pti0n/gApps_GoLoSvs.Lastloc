@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_0ec3218d04567e41c3eaeb0688e8c353ac49cf87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_cd8e748c9a677647cb689fc181484aaf8b6ed0ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_4717e6cc5ca7d3c60a555e0ceccd6f472483386b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_b79f76935b5d90a2953d39d01fb134c20e1080b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_9a715a3061ae7a70579c26dcdb350f72ed98161b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_9855e874485e79f893987774bf0bff25c590fad3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_5da683c6d365f747e0eb20ddb2dd95c011e12eef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_07efb746e5f16e2abe5eec81237821a82dbc0c49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_3fc129b0770b426f603bd9c6e2889772e3a1ad06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_00655eacffd1e6e0ae351e0e0774308c7a893867\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_1c4dab21375ca7b977d3c3fe54d281a600b121bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_6511a9fa9cd5d00dcc3f937c388efb3ed7b8062c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\THINK\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_1df419a4e4e5596250481cb8b5981c6bfd7010d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_efd73dd7578eb1fca45a3493d29df79e03ac3f27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f2d13e2cbeaa9ee4da30769d781e6dd1c564bfe1">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a797c9ab372fbf8efe8d78faf7eb233b282ad3e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_3098c7938fd025e2a86e346f4844e77a43bd2235\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_2fbd12e4344556ab5a59a5f08261f6d52eb9b586\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_3acc467a894b8144437a5bf5d2157cefe0d8e973\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_8bac59eba7d6b2ca580f63c3ec6784e2615bad5d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_c73fa37a73e8e37859626ad15d9bca6ef55722cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_8313e89df42645e9e045c2c8a9ca717c7604f908\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_08894b8b729410f1cfc125a4f8ead82549210c23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_e8ec368c69c1860fdb54b4db40062f6af1ac04e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_2686f2b6c65ad5b42ca074b7038dfbad8259c409\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_c643fbfc87080d0646cc8d71c1d4525439b90b8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_d6c8af5fcc47d40c1c1ec7e7f937fe46f323c752\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_8d19e700052063823c6c71f06cd83c5fb260f62a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7f8865e116cc36fb9c5be9ed7675c7b73c240231">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3cd24fb79f9a9f3bed989a2a0036b5680eadcd72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_734b70f4408f67e56e81042c2914715cadd9d905\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_4f5047fe0d00f70ef2fe3cc6a6105b727e886b1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_7f746ae377a5ffee6c043caa6598f1519244de28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_8840c4d794a3f98b1606a7401ea4733c41b53397\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_dbbb296d802414c89b8e735f33d7ab2fbaa497ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a4ca00d2088b53c5bd280f5134265fc88a47e99f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_83f9bfaf1439d5ccd115298e23ea9b8abbd2d41d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_09047eb44fcf5841e3da137003aea5ba81795f73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_23195adc90b2c8069e853594b8f4748c82d7725c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_028e540d01a01df6d166782969adce2f9cda4daa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_31a5d4d3bd7d1cbc58b6370199cbef5452a73e9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_5ca0b5e0d9a0cbfeffce5f0d0df920df8451e0de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_f958cb308755f20a782f93c491e66909d111cae2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_c7c457928c21488f4e025dbdd8193cde8b22c368\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_bab11d37de109495e8ee5e857f1d9e23dd036e18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_ebca1bb28cc4d05deb00dc14e0e941376585b003\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_f2772811dd1a368afcc32784f771ac91586ff373\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_4e6e4a57a48fb2a803d122eeb46f8ea132c74b4e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_7223305c9892c50840175325c2ee5fe8ea787c72\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_a6d61a5419052f65d07058743e14c516050583de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_9c25e5806c63f51b2e644fb0086279124fcb9ebd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_f41cb97ce794b68c7d727b8d11ba7a87dc7da224\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_2bc4104e7e923e5a955e7afb4481d91e3f72db27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_9532cbf0210b6595d83eee423e479bcffadc053d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_7579a542d1d63d559833b3f06007ab5454ed2cc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_c142da1022eab04fbff2a9fecd87e051993d6afa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_5ddac841e0583cd812aa8267ab0bbe36c4d5eb7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_2ad71411fef455d6663ba9e577955f3a611472a1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_1fa3e08f6ae3fef4ca4996b53faa0a19eb27b1b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android APK\GoLoSrv\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Android APK\GoLoSrv\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_af097b1af74490c9e27bda4d5e5a9ae2919b6d6a\classes.dex" />
+    </item>
+
+</items>
